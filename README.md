@@ -42,43 +42,6 @@ I scrape data, build intelligent bots, and I'm diving deep into Data Science, Ba
 
 ---
 
-## 🚀 What I'm Working On
-
-- 🕷️ Building advanced web scrapers with anti-detection techniques
-- 🤖 Creating automation bots for data collection and processing
-- 📊 Learning machine learning fundamentals and deep learning architectures
-- 🗄️ Exploring data pipelines and backend architecture
-- 🌐 Diving into Web3 technologies
-
----
-
-## 💡 Expertise
-
-**Web Scraping & Data Extraction**
-- Dynamic content scraping with Selenium & Playwright
-- API reverse engineering and data extraction
-- HTML parsing with Beautiful Soup
-- Handling anti-bot measures and CAPTCHAs
-- Building scalable scraping architectures
-
-**Bot Development**
-- Telegram bots and automation
-- Data collection bots
-- Monitoring and notification systems
-
----
-
-## 🌱 Learning Journey
-
-Currently expanding my skillset in:
-- **Machine Learning**: TensorFlow, scikit-learn
-- **Data Science**: Pandas, NumPy, data visualization
-- **Deep Learning**: Neural networks and model training
-- **Database Management**: MySQL, SQL optimization
-- **Backend Development**: APIs and server-side logic
-
----
-
 ## 📫 Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bot_arena_chat)
