@@ -32,11 +32,9 @@ I scrape data, build intelligent bots, and I'm diving deep into Data Science, Ba
 
 <div align="center">
   
-![Anzywiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anzywiz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anzywiz&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anzywiz&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anzywiz&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anzywiz&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
