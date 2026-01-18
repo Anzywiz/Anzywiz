@@ -1,6 +1,6 @@
 # Hey, I'm Ifeanyi Muotoe
 
-**Web Scraping Specialist | Data Engineering & AI | Bot Developer**
+**Web Scraping Specialist | ML Engineering & AI | Bot Developer**
 
 Data is the new oil, and I’m here to extract and refine it. I build data pipelines that power AI systems by collecting data through web scraping and APIs, engineering datasets, and training machine learning models to solve real-world problems.
 
